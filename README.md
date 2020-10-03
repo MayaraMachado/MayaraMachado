@@ -15,9 +15,11 @@ I am Mayara Machado and I am currently a back-end developer who is very interest
 <h3>
  🌱 Things I am currently working on
 </h3>
-- Finish my Information Systems Bachelor Degree at Federal University of Sergipe  
-- Studying and developing projects in Machine Learning and Data Engineering
-- Share my development and study process on my [personal blog](https://mayaramachado.dev/)
+ <ul>
+  <li> Finish my Information Systems Bachelor Degree at Federal University of Sergipe  </li>
+  <li> Studying and developing projects in Machine Learning and Data Engineering  </li>
+  <li> Share my development and study process on my [personal blog](https://mayaramachado.dev/)  </li>
+ </ul>
 
 <h3>
     💻 Some links 
