@@ -20,6 +20,17 @@ I am Mayara Machado and I am currently a back-end developer who is very interest
   <li> Studying and developing projects in Machine Learning and Data Engineering  </li>
   <li> Share my development and study process on my <a href="https://mayaramachado.dev/"> personal blog</a> </li>
  </ul>
+ 
+ <h3>
+👩‍💻 Tech that I currently use
+</h3>
+ <ul>
+  <li> Python, Django, Flask, Java, Go </li>
+  <li> Postgres, MySQL, MongoDB, Redis </li>
+  <li> Pyspark, Hadoop, Pandas, Hive </li>
+  <li> AWS, AWS S3, AWS SQS, AWS SNS </li>
+  <li> Docker, Terraform </li>
+ </ul>
 
 <h3>
     💻 Some links 
@@ -27,6 +38,7 @@ I am Mayara Machado and I am currently a back-end developer who is very interest
 <samp>
   
 - :art: Personal blog: https://mayaramachado.dev/ <br>
+- :art: Dev.to: https://dev.to/mayaramachado/ <br>
 - :pencil: Resume: https://mayaramachado.dev/about/ <br>
 - :briefcase: LinkedIn: https://www.linkedin.com/in/mayaramachado/ <br>
 </samp>
