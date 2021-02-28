@@ -7,7 +7,7 @@
 Hello, I'm Mayara! 👋 
 </h3>
  <samp>
-I am Mayara Machado and I am currently a back-end developer who is very interested in the Data Science Universe! I love pizza, dancing, dogs, a good cup of tea and sharing knowledge. Welcome to my Github page!
+I am Mayara Machado and I am a Data Engineer who is very interested in the Data Science Universe! I love pizza, dancing, dogs, a good cup of tea and sharing knowledge. Welcome to my Github page!
   </samp>
 </p>
 
