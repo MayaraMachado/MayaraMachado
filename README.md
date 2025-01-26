@@ -1,9 +1,5 @@
 <!--
 **MayaraMachado/MayaraMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/16944803/95002927-bfc97a00-05af-11eb-8ee1-be1a8a63e83a.png" width="300px" >
-<h3 align="center">
 Hello, I'm Mayara! 👋 
 </h3>
  <samp>
