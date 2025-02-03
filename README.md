@@ -21,7 +21,6 @@ Hi, I'm Mayara! I am passionate about data engineering and software development,
 
 - **Email:** may.mchdo@gmail.com
 - **LinkedIn:** [Mayara Machado](https://www.linkedin.com/in/mayaramachado/)
-- **Twitter:** [@mayara_machado](https://twitter.com/mayara_machado)
 
 ---
 
