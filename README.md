@@ -1,44 +1,31 @@
 <!--
 **MayaraMachado/MayaraMachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-Hello, I'm Mayara! 👋 
-</h3>
- <samp>
-I am Mayara Machado and I am a Data Engineer who is very interested in the Data Science Universe! I love pizza, dancing, dogs, a good cup of tea and sharing knowledge. Welcome to my Github page!
-  </samp>
-</p>
+## 👋 Hello, I'm Mayara Machado
 
-----
-<h3>
- 🌱 Things I am currently working on
-</h3>
- <ul>
-  <li> Finish my Information Systems Bachelor Degree at Federal University of Sergipe  </li>
-  <li> Studying and developing projects in Machine Learning and Data Engineering  </li>
-  <li> Share my development and study process on my <a href="https://mayaramachado.dev/"> personal blog</a> </li>
- </ul>
- 
- <h3>
-👩‍💻 Tech that I currently use
-</h3>
- <ul>
-  <li> Python, Django, Flask, Java, Go </li>
-  <li> Postgres, MySQL, MongoDB, Redis </li>
-  <li> Pyspark, Hadoop, Pandas, Hive </li>
-  <li> AWS, AWS S3, AWS SQS, AWS SNS </li>
-  <li> Docker, Terraform </li>
- </ul>
+**Data Engineer | Data Platform Engineer | Software Engineer | Python Enthusiast**
 
-<h3>
-    💻 Some links 
-</h3>
-<samp>
-  
-- :art: Personal blog: https://mayaramachado.dev/ <br>
-- :art: Dev.to: https://dev.to/mayaramachado/ <br>
-- :pencil: Resume: https://mayaramachado.dev/about/ <br>
-- :briefcase: LinkedIn: https://www.linkedin.com/in/mayaramachado/ <br>
-</samp>
-</p>
+---
+
+### 🚀 About Me
+
+Hi, I'm Mayara! I am passionate about data engineering and software development, with a strong focus on leveraging Python to solve complex problems and build efficient systems. With 7+ years of experience in programming, including 4 years dedicated to data engineering and 4 years in software engineering, I bring a wealth of knowledge and expertise to every project I undertake.
+
+- 🎓 **Education:** Bachelor's degree in Software Engineering
+- 📚 **Blogger:** Sharing my insights and experiences on [my blog](https://mayaramachado.dev/)
+- 🛠️ **Tech Stack:** Python (main language), SQL, Java, Apache Spark (PySpark), Delta Lake, AWS, Docker, Terraform, Airflow, Airbyte<br>PostgreSQL, Git, Github Actions, AWS, BigQuery
+- 📍 **Location:** Aracaju, Sergipe, Brazil
+
+---
+
+### 📫 How to Reach Me
+
+- **Email:** may.mchdo@gmail.com
+- **LinkedIn:** [Mayara Machado](https://www.linkedin.com/in/mayaramachado/)
+- **Twitter:** [@mayara_machado](https://twitter.com/mayara_machado)
+
+---
+
+Feel free to connect with me. Let's build something amazing together!
 
 <p align="center">
     <img src="https://media.giphy.com/media/3o85g2SLLmkp9oyjle/giphy.gif"  width="200px">
